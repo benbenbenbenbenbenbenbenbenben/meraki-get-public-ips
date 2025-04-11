@@ -18,9 +18,11 @@ This is a command-line tool that connects to the Cisco Meraki Dashboard API, ret
 
 ## 🚀 Getting Started
 
-### 1. Install Dependencies
+### 1. Setup
 
 ```bash
+git clone https://github.com/benbenbenbenbenbenbenbenbenben/meraki-get-public-ips.git
+cd meraki-get-public-ips
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
